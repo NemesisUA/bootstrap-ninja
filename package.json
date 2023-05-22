@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-ninja",
+  "version": "1.0.0",
+  "description": "reset bootstrap defaults",
+  "main": "index.js",
+  "scripts": {
+    "style": "sass --watch sass/main.scss css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NemesisUA/bootstrap-ninja.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NemesisUA/bootstrap-ninja/issues"
+  },
+  "homepage": "https://github.com/NemesisUA/bootstrap-ninja#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
